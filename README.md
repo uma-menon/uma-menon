@@ -6,7 +6,7 @@ Rice CS '28, focused on AI systems & applied ML.
 
 **Previously —** SWE Intern at Matillion, where I designed, built, and deployed ObServant: a multi-agent observability system that lets engineers query logs, metrics, and dashboards in natural language, backed by a Model Context Protocol server.
 
-**Building —** an LLM-powered travel planner with retrieval-augmented itinerary generation as an exportable .ics calendar. Currently working on adding saved itineraries and map view. Try it out here: [https://travel-planner-umamenon.vercel.app/](url)!
+**Building —** an LLM-powered travel planner with retrieval-augmented itinerary generation as an exportable .ics calendar. Currently working on adding shareable itineraries and map view. Try it out here: [https://travel-planner-umamenon.vercel.app/](url)!
 
 **Currently learning —** PyTorch internals (working toward a transformer-from-scratch implementation), and retrieval + eval design for LLM systems.
 
