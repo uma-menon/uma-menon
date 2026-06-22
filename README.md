@@ -10,4 +10,4 @@ Rice CS '28, focused on AI systems & applied ML.
 
 **Currently learning —** PyTorch internals (working toward a transformer-from-scratch implementation), and retrieval + eval design for LLM systems.
 
-📫 uma.menon@rice.edu · [LinkedIn](https://linkedin.com/in/menonuma)
+📫 uma.menon@rice.edu · [linkedin.com/in/menonuma](https://linkedin.com/in/menonuma)
